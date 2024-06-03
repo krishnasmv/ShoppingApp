@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Create Shopping App Using React
+
+# User interfaces for Netflix-like and shopping applications using React and JavaScript. 
+
+To display various products, By fetching product details from the Fake Store API using HTTP request methods, then converting the binary data to JSON format and displaying them as cards. Items are displayed based on the selected category, and the Wishlist. The category columns can be minimized by clicking an arrow button for more effective product navigation.
+
+Utilizing React Hooks and explicit two-way binding techniques for DOM manipulation, I enabled users to save and delete products in their wish lists. When users add items to their cart and click the checkout button, the total price is calculated, allowing them to proceed to checkout. Users can delete items from the cart, and the total price is updated automatically, providing an optimal user experience. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
